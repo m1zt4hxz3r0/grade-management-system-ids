@@ -78,7 +78,7 @@
                     <a><span class="fa-stack fa-lg pull-left"><i class="fa fa-graduation-cap fa-stack-1x "></i></span> Grades</a>
                     <ul class="nav-pills nav-stacked" style="list-style-type:none;">
                         <li><a href="registrar-view-grades">View Grades</a></li>
-                        <li><a href="registrar-view-deans-list'">View Dean's Lister</a></li>
+                        <li><a href="registrar-view-deans-list">View Dean's Lister</a></li>
                     </ul>
                 </li>
                 <li>
