@@ -1,0 +1,70 @@
+
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+table{
+	background-color: white;
+}
+body{
+	background-color: #dfedd6;
+}
+.padding{
+	 padding: 20px;
+	 padding-bottom: 20px;
+}
+th{
+	background-color: #5cb85c;
+	height: 4em;
+}
+#lenght{
+	width: 150px;
+}
+.spacing-table td {
+    border-style: solid;
+    background-color: #f1f1c1;
+    padding: 9px 8px;
+    text-align: inherit;
+}
+.mycon{
+	background-color: #dfedd6;
+	padding-bottom: 20px;
+
+}
+.container-fluid{
+}
+#tblcp{
+	width: 50%;
+	font-weight: bold;
+	text-align: center;
+}
+#iteminput{
+	background-color: #f1f1c1;
+	height: 45px;
+}
+.full {
+  background: url(../img/1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#ids{
+	text-align: center;
+}
+#logo{
+	height: 200px;
+	width: 200px;
+	position: center;
+	padding-top: 40px
+}
+#btnqrcode{
+	height: 50px;
+	background-color: #AAAAAA;
+}
+.row{
+	margin-left: 0;
+	margin-right:0;
+}
